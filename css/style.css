@@ -1,0 +1,110 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.container{
+	width:1170px;
+	margin-left: auto;
+	margin-right:auto;
+	padding-left:15px;
+	padding-right:15px;	
+}
+.flex-container{
+	display:flex;
+	flex-wrap:wrap;
+	margin-left:15px;
+	margin-right:15px;
+}
+
+.items{
+	background-color:red;
+	margin-bottom:20px;
+	color:#ffff;
+	text-align:center;
+	line-height:200px;
+}
+.flex-items-1{
+	width:8.33%;
+	padding-right:15px;
+	flex:0 0 auto;
+	padding-left:0 0 auto;
+}
+
+.flex-items-2{
+	width:16.66%;
+	padding-right:15px;
+	flex:0 0 auto;
+	padding-left:0 0 auto;
+}
+
+.flex-items-3{
+	width:25%;
+	padding-right:15px;
+	flex:0 0 auto;
+	padding-left:0 0 auto;
+}
+
+.flex-items-4{
+	width:33.33%;
+	padding-right:15px;
+	flex:0 0 auto;
+	padding-left:0 0 auto;
+}
+	 
+	 .flex-items-5{
+	width:41.66%;
+	padding-right:15px;
+	flex:0 0 auto;
+	padding-left:0 0 auto;
+}
+
+.flex-items-6{
+	width:50%;
+	padding-right:15px;
+	flex:0 0 auto;
+	padding-left:0 0 auto;
+}
+
+.flex-items-7{
+	width:58.33%;
+	padding-right:15px;
+	flex:0 0 auto;
+	padding-left:0 0 auto;
+}
+
+.flex-items-8{
+	width:66.66%;
+	padding-right:15px;
+	flex:0 0 auto;
+	padding-left:0 0 auto;
+}
+
+.flex-items-9{
+	width:75%;
+	padding-right:15px;
+	flex:0 0 auto;
+	padding-left:0 0 auto;
+}
+
+.flex-items-10{
+	width:83.33%;
+	padding-right:15px;
+	flex:0 0 auto;
+	padding-left:0 0 auto;
+}
+
+.flex-items-11{
+	width:91.66%;
+	padding-right:15px;
+	flex:0 0 auto;
+	padding-left:0 0 auto;
+}
+
+
+.flex-items-12{
+	width:100%;
+	padding-right:15px;
+	flex:0 0 auto;
+	padding-left:0 0 auto;
+}
